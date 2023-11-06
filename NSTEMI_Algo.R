@@ -10,7 +10,7 @@ library(lubridate)
 library(dplyr)
 
 
-MASTERFILE_Notes_Only <- read_excel("/Users/emreaktas/Desktop/03_UR_Research/topic_models_nstemi/MASTERFILE 1.xlsx", sheet = 'Notes')
+MASTERFILE_Notes_Only <- read_excel("/Users/, sheet = 'Notes')
 
 df <- MASTERFILE_Notes_Only
 
